@@ -1,1 +1,2 @@
-# dodcott-cum-wilkesley-hugo
+# dodcott-hugo
+parish-website-hugo
