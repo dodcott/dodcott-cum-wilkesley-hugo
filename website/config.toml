@@ -1,4 +1,4 @@
-baseurl  = "https://ianbarton.github.io/dodcott-hugo/"
+baseurl  = "https://dodcott.github.io/dodcott-cum-wilkesley-hugo/"
 title = "Dodcott-cum-Wilkesley"
 languageCode = "en-gb"
 paginate = "10" # Number of posts per page
