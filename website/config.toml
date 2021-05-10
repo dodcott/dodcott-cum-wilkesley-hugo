@@ -14,7 +14,7 @@ publishDir = "docs"
 
 [Author]
   name = "Ian Barton"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  bio = ""
   avatar = "img/avatar.png"
 
 [Params]
